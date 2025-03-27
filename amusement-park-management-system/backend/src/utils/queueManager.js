@@ -1,0 +1,1 @@
+Handles virtual queueing logic.
