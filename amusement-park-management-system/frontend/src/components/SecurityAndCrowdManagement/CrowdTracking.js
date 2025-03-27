@@ -1,0 +1,1 @@
+Displays real-time crowd heatmaps.
