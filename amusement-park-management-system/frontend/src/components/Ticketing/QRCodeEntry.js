@@ -1,0 +1,1 @@
+Component for QR code generation and scanning.
