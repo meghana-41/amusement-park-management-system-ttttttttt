@@ -1,0 +1,1 @@
+Manages ride operations and state.
