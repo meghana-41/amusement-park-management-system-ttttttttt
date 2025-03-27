@@ -1,0 +1,1 @@
+Schema and model for ride-related data.
