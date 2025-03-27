@@ -1,0 +1,1 @@
+Manages employee data and scheduling.
