@@ -1,0 +1,1 @@
+Handles sending emergency alerts.
