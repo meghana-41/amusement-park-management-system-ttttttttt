@@ -1,0 +1,1 @@
+Handles virtual queue management.
